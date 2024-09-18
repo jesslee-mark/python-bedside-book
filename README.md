@@ -51,6 +51,7 @@
 35. [【python床头书系列】Python web Requests快速入门](https://zhuanlan.zhihu.com/p/689830330)
 36. [【python床头书系列】Python web中的Flask由来原理用法示例](https://zhuanlan.zhihu.com/p/702893105)
 37. [【python床头书】Python Sympy Term Rewriting（术语重写）](https://zhuanlan.zhihu.com/p/669578211)
+38. [【python床头书】可视化matplotlib.pyplot 教程](https://zhuanlan.zhihu.com/p/720671739)
 
 ## 正则系列
 
